@@ -16,6 +16,7 @@
 
 | Avatar                                                                            | Name       | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:-----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
+| ![](https://avatars.steamstatic.com/c2c51159307ac0e5c3960f0df31732a07cd85cd0.jpg) | 万死的龙牙      | [76561199544557543](https://steamcommunity.com/profiles/76561199544557543/) | ❌           | 2026-04-09 18:09:30 |          | 2026-04-12 11:22:59 |
 | ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS  | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2026-03-18 15:09:56 |
 | ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT       | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2026-03-18 15:09:56 |
 | ![](https://avatars.steamstatic.com/3f5e9daea59216d7fe13df4e031d3537580e5e21.jpg) | 2743969030 | [76561199557387563](https://steamcommunity.com/profiles/76561199557387563/) | ✅           | 2023-10-01 12:09:55 |          |                     |
@@ -30,4 +31,3 @@
 | ![](https://avatars.steamstatic.com/a6472dbf75a41e1dc66e85bb3ed7ce59008c6f7c.jpg) | Aris       | [76561199096829956](https://steamcommunity.com/profiles/76561199096829956/) | ✅           | 2024-08-16 19:03:09 |          |                     |
 | ![](https://avatars.steamstatic.com/107f831e4d5b41c347c38cf1d3c18f521202294f.jpg) | Lv         | [76561199149140803](https://steamcommunity.com/profiles/76561199149140803/) | ✅           | 2024-10-30 22:47:12 |          |                     |
 | ![](https://avatars.steamstatic.com/22d37eb5e12c71f1d4e70d1e71055feddf2265d0.jpg) | 62029109   | [76561199416119831](https://steamcommunity.com/profiles/76561199416119831/) | ✅           | 2023-02-18 15:21:20 |          |                     |
-| ![](https://avatars.steamstatic.com/c2c51159307ac0e5c3960f0df31732a07cd85cd0.jpg) | 万死的龙牙      | [76561199544557543](https://steamcommunity.com/profiles/76561199544557543/) | ✅           | 2026-04-09 18:09:30 |          |                     |
